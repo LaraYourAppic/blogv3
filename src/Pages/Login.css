@@ -1,0 +1,23 @@
+.loginbutton{
+    color: #eeedde;
+    background-color: #141E27;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: #203239;
+}
+ h3{
+     color: #203239;
+ }
+ .details-name{
+     color: #203239;
+ }
+.fieldlegenda{
+    color: #203239;
+}

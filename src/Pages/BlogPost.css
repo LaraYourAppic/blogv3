@@ -1,0 +1,21 @@
+.PostOverview{
+    list-style-type: none;
+}
+
+.title{
+    font-style: italic;
+
+}
+
+.date{
+    text-align: center;
+}
+
+.content{
+    border: 2px solid black;
+    outline: #203239 4px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
+

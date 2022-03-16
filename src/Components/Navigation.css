@@ -1,0 +1,22 @@
+.nav-bar {
+    background-color: #e0ddaa;
+    color: whitesmoke ;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 10px;
+
+
+}
+
+.active-link{
+    color: #203239;
+    background-color: whitesmoke;
+}
+
+nav a:hover {
+    color: darkgray;
+}
